@@ -2,17 +2,19 @@
 
 ### About Me
 - Name : Tenzin Yarphel
-- Passion : cybersecurity
-- Skill : Penetraion testing, Vulnerbility assessment, Siem, 
+- Passion : Cybersecurity
+- Currently working : IT audit
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... protiviti
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Certification
+- Comptia Security +
+
+### Skills
+- C++
+- Penetration Testing
+- Vulnerbility assessment
+- Siem
+- Networking
+- Lunix
+- Forensic
 
