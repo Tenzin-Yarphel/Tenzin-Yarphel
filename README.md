@@ -8,6 +8,7 @@
 
 ### Certification
 - Comptia Security +
+- CEH v12
 
 ### Skills
 - C++
@@ -18,3 +19,5 @@
 - Lunix
 - Forensic
 
+### My LinkedIn
+- https://www.linkedin.com/in/tenzin-yarphel/
